@@ -1,0 +1,34 @@
+/* screen:-xs , min:- infi , max:-575 */
+@media(max-width:575px){
+    /* .start-xs button{
+        font-size: 13px;
+    } */
+     .font-xs{
+        font-size: 16px;
+     }
+}
+/* screen:-s , min:-576 , max:-767 */
+@media(min-width:576px){
+    #desc{
+        font-size: 16px;
+     }
+    
+}
+/* screen:-m , min:-768 , max:-991 */
+@media(min-width:768px){
+    #desc{
+        font-size: 16px;
+     }
+}
+/* screen:-L , min:-992 , max:-1199*/
+@media(min-width:992px){
+    
+}
+/* screen:-xl , min:-1200 , max:-1399 */
+@media(min-width:1200px){
+   
+}
+/* screen:-xxl , min:-1400 , max:-infi */
+@media(min-width:1400px){
+   
+}

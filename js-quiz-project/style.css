@@ -1,0 +1,45 @@
+:root {
+    --bs-primary-rgb: 250, 250, 246 !important;
+    --bs-secondary-rgb: 240, 244, 235 !important;
+}
+
+
+.fs-13 {
+    font-size: 13px;
+}
+
+.fun {
+    line-height: 0.5;
+}
+
+.category-icon {
+    width: 40px;
+    height: 40px;
+}
+.purple{
+    background-color: #fbefef;
+}
+
+.brown{
+    background-color: #fbf3e9;;
+}
+.blue{
+    background-color: #eaf3fc;;
+}
+.pink{
+    background-color: #fceeee;;
+}
+.correct{
+    background-color:rgb(210, 251, 217) ;
+    color: #0ae75b;
+}
+.wrong{
+    background-color: #ffd0d0;
+    color: #fa0004;
+}
+
+.skiped{
+    background-color: #f8fab6;
+    color: #667c02;
+}
+
